@@ -88,6 +88,8 @@ def adding_matz
 			lenguages: ["LISP", "C"]
 		}
 
+programmer_hash
+
 end
 
 def changing_alan
